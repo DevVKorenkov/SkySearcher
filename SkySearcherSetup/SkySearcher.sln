@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SkySearcherSetup", "SkySearcherSetup\SkySearcherSetup.vdproj", "{84E94C27-A329-4D6F-9ADA-60D5DBAB8980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84E94C27-A329-4D6F-9ADA-60D5DBAB8980}.Debug|Default.ActiveCfg = Debug
+		{84E94C27-A329-4D6F-9ADA-60D5DBAB8980}.Debug|Default.Build.0 = Debug
+		{84E94C27-A329-4D6F-9ADA-60D5DBAB8980}.Release|Default.ActiveCfg = Release
+		{84E94C27-A329-4D6F-9ADA-60D5DBAB8980}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE8E4C1F-5094-4B91-82B2-8F84C85DDB17}
+	EndGlobalSection
+EndGlobal

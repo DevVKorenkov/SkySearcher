@@ -1,0 +1,16 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:SkySearcher.Styles">
+
+    <SolidColorBrush x:Key="WhiteBrush" Color="White"/>
+    <SolidColorBrush x:Key="DarkBrush" Color="#1d1d1d"/>
+    <SolidColorBrush x:Key="GoldenBrush" Color="Goldenrod"/>
+    <SolidColorBrush x:Key="GrayBrush" Color="DarkGray"/>
+    <SolidColorBrush x:Key="DarkGoldenBrush" Color="#BF8030"/>
+    <SolidColorBrush x:Key="LightRed" Color="#FF0000"/>
+    <SolidColorBrush x:Key="LightBlue" Color="#04859D"/>
+    <SolidColorBrush x:Key="BlackBrush" Color="Black"/>
+    <SolidColorBrush x:Key="DarkRedBrush" Color="DarkRed"/>
+    <SolidColorBrush x:Key="OrangeBrush" Color="Orange"/>
+
+</ResourceDictionary>
